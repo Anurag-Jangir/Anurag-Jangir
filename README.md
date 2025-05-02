@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Jangid</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Tour API](https//www.commingsoon.com/)
-
-- 🌱 I’m currently learning **Node.js, MongoDB, Express.js**
-
-- 💬 Ask me about **Core JAVA, JavaScript, MySQL, Node.js**
+- 🔭 I have 2 years of experience in Backend Development (Node.js)
 
 - 📫 How to reach me **jangidanuragoo7@gmail.com**
 
