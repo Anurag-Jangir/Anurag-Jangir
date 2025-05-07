@@ -3,7 +3,7 @@
 
 - 🔭 I have 2 years of experience in Backend Development (Node.js)
 
-- 📫 How to reach me **jangidanuragoo7@gmail.com**
+- 📫 How to reach me **anuragjangid2502@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-jangir&show_icons=true&locale=en" alt="anurag-jangir" /></p>
 
